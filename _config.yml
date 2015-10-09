@@ -3,6 +3,8 @@ relative_permalinks: false
 highlighter: pygments
 markdown: kramdown
 
+baseurl: /jekyll-collection-issue
+
 gems:
 - jekyll-sitemap
 - jekyll-feed
