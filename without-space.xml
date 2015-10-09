@@ -1,0 +1,9 @@
+---
+title: without space
+# first line of front-matter is "---"
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  {{ page.title }}
+</item>
