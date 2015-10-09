@@ -4,4 +4,4 @@ title: This item should show
 layout: default
 ---  
 
-This item should show and generate a page in /things/
+This item should show and generate a post

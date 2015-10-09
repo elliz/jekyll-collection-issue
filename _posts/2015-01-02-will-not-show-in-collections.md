@@ -1,6 +1,6 @@
 --- 
-title: This item probably will not show
+title: This item probably will not show in collections, but will show in posts
 layout: default
 ---
 
-This item will probably not show, but render as this markdown folder in _site/items/
+This item should show and generate a post
