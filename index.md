@@ -11,7 +11,7 @@ If there is an issue then only one item should show up below.
 If there is no issue then there will be two items:
 
 {% for item in site.items %}
-  * [{{ item.title }}]({{ item.url }})
+  * [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
 {% endfor %}
 
 ## Posts
@@ -20,5 +20,5 @@ Posts are created from identical files to the Items collection (literally copy a
 There should be two files listed below:
 
 {% for item in site.posts %}
-  * [{{ item.title }}]({{ item.url }})
+  * [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
 {% endfor %}
