@@ -1,0 +1,13 @@
+
+relative_permalinks: false
+highlighter: pygments
+markdown: kramdown
+
+gems:
+- jekyll-sitemap
+- jekyll-feed
+
+collections:
+  items:
+    output: true
+    permalink: /things/:path/
