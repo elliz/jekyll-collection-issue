@@ -1,6 +1,6 @@
 
 relative_permalinks: false
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 
 baseurl: /jekyll-collection-issue
